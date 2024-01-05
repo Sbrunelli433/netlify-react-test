@@ -1,5 +1,6 @@
 [build]	
-    command = "npm build"
+    command = "npm run build"
+    base = "/"
     build = "build"
 [[redirects]]
     from ="/*"
